@@ -103,6 +103,7 @@ Performed using **Excel** and **Power Query**
 
 ---
 
+![DATA RELACTIONSHIP](https://github.com/bhakya01/Mini-project-ICDS/blob/main/data%20mode.png
 # 📈 DAX Measures
 
 ### ANG1
@@ -221,6 +222,7 @@ Performed using **Excel** and **Power Query**
   * Lactating mothers
   * THR distribution
   * Hot Cooked Meal distribution
+
 
 ---
 
