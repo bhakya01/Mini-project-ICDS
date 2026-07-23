@@ -258,7 +258,40 @@ Helps decision-makers prioritize infrastructure improvements, workforce allocati
 * Improved reporting with interactive visualizations.
 * Supported evidence-based monitoring of ICDS nutrition programmes.
 
----
+---📁Repository  structure
+ICDS-Nutrition-PowerBI
+├── data
+│   ├── ang1.csv
+│   ├── health.csv
+│   └── state_csv.csv
+├── dashboard
+│   ├── ang.pbix
+│   ├── ang.pdf
+│   └── datamodel.png
+├── documentation
+│   ├── DATA.pdf
+│   ├── ICDS Nutrition.pdf
+│   └── ICDS.pdf
+├── images
+│   ├── ICDS1.png
+│   └── ICDS2.png
+├── .gitignore
+├── LICENSE
+└── README.md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # 📌 Conclusion
 
