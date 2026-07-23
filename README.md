@@ -223,6 +223,9 @@ Performed using **Excel** and **Power Query**
   * THR distribution
   * Hot Cooked Meal distribution
 
+![ICDS SCREENSHORT]( https://github.com/bhakya01/Mini-project-ICDS/blob/main/ICDS1.png)
+![ICDS SCREENSHORT](https://github.com/bhakya01/Mini-project-ICDS/blob/main/ICDS2.png)
+
 
 ---
 
